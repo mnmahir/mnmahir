@@ -5,6 +5,8 @@
 # About me
 Passionate programmer. Interested in AI, IoT and Robotics.
 
+[Gravatar](https://gravatar.com/mnmahir)
+
 #
 😂 Here is a random joke that'll make you laugh!
 
